@@ -41,4 +41,4 @@ RefreshGTPStratus/          # the extension (load unpacked -> this folder)
 
 ## License
 
-MIT — see [LICENSE](LICENSE) if present in the extension folder, otherwise all source here is yours to use and modify freely.
+GPL-3.0 — see [LICENSE](LICENSE).
